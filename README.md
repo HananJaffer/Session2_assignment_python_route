@@ -50,19 +50,16 @@ The assignment is broken down into four key modules:
 ### Installation & Execution
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/python-control-flow.git](https://github.com/yourusername/python-control-flow.git)
-
+  git clone https://github.com/HananJaffer/Session2_assignment_python_route.git
 ```
 
 2. Navigate to the project directory:
 ```bash
 cd python-control-flow
-
 ```
 
 
 3. Run the script:
 ```bash
 python session2_assignment.py
-
 ```
